@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Chessalysis**.
 
-- 🌱 I’m currently learning **Frontend Dev**.
+- 🌱 I’m currently learning **AI/ML**.
 
 - 💬 Ask me about **Discord Bots**.
 
