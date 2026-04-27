@@ -13,9 +13,7 @@
 
 <br/>
 
-<table>
-<tr>
-<td valign="top" width="55%">
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"/>
 
 ### What I build
 
@@ -26,14 +24,7 @@ Software engineer with hands-on experience shipping AI systems, backend APIs, an
 - 🚀 &nbsp;Bots & tools deployed to **450K+** users
 - 🔒 &nbsp;Most repos are private (org / deployed apps)
 
-</td>
-<td valign="top" width="45%">
-
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 <br/>
 
@@ -91,3 +82,4 @@ Software engineer with hands-on experience shipping AI systems, backend APIs, an
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0284c7,100:0f172a&height=130&section=footer&animation=twinkling"/>
+
